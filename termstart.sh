@@ -1,1 +1,0 @@
-sudo cat main.txt >> ~/.zshrc
