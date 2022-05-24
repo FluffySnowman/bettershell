@@ -1,2 +1,1 @@
-
-sudo cat main.txt >> ~/.bashrc
+sudo cat main.txt >> ~/.zshrc
