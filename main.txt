@@ -1,0 +1,12 @@
+figlet -f slant "Welcome" | lolcat
+curl v2d.wttr.in/
+echo ""
+echo ""
+echo "You are currently in the directory: " && pwd | lolcat
+echo ""
+PROMPT="%F{red}┌[%f%F{cyan}%m%f%F{red}]─[%f%F{yellow}%D{%H:%M-%d/%m}%f%F{red}]─[%f%F{magenta}>
+alias cls="clear"
+alias gc="git commit -m "
+alias gph="git push"
+alias ga="git add ."
+alias gpl="git pull"
